@@ -1,0 +1,39 @@
+.basliq{
+    font-family: 'Dancing Script', cursive;
+    color: red;
+}
+.paraqraf{
+    text-decoration: underline;
+    word-spacing: 32px;
+    line-height: 30px;
+}
+#basliq2{
+    
+    font-family: 'Indie Flower', cursive;
+    text-decoration: underline;
+    
+}
+
+#boyukparaqraf{
+   
+font-family: 'Raleway', sans-serif;
+font-size: small;
+}
+
+#sonuncuabzas{
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+}
+#birinciabzas{
+  font-weight: bold;
+}
+
+#ilkbasliq{
+    text-align: center;
+    
+}
+
+#axirincibas{
+    letter-spacing: 10px;
+}
